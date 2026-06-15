@@ -203,7 +203,7 @@ plugins:
     options:
       provider: giscus
       options:
-        repo: quartz.config.yaml
+        repo: chinoalde/chinos-garden
         repoId: R_kgDOS7p6WQ
         category: General
         categoryId: DIC_kwDOS7p6Wc4C_N8l
